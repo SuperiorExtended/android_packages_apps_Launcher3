@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Application name -->
-    <string name="crdroid_app_name" translatable="false">crDroid Home</string>
+    <string name="superior_app_name" translatable="false">Superior Launcher</string>
 
     <!-- Folder titles -->
     <string name="google_folder_title" translatable="false">Google</string>
@@ -207,15 +207,16 @@
     <string name="quickspace_date_format_minimalistic" translatable="false">EEEE, MMMM d</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome">Welcome to crDroid!</string>
-    <string name="quick_event_rom_intro_welcome_ext">crDroid time!</string>
+    <string name="quick_event_rom_intro_welcome">Hi Superior!</string>
+    <string name="quick_event_rom_intro_welcome_ext">We assume you\'re ready to get Extended!</string>
     <string-array name="welcome_message_variants">
-        <item>Thank you for choosing us</item>
-        <item>Loving us? Send us a beer</item>
-        <item>Best Rom Ever.</item>
-        <item>Say hi to us on Telegram</item>
+        <item>Have a great day!</item>
+        <item>We Love You!</item>
+        <item>Loving us? Send me a rootbeer!</item>
+        <item>We\'re not the best, but at least we try!</item>
         <item>Tap here to begin</item>
-        <item>We love you 3000</item>
+        <item>Enjoy our OS!</item>
+        <item>Explore Goodies</item>
     </string-array>
 
     <!-- QuickSpace: QuickEvent: Greetings -->
@@ -349,44 +350,29 @@
         <item>Your attitude determines your direction.</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Ignorance is Bliss</item>
-        <item>Is it time to flash another update already?</item>
-        <item>Make peace, not war</item>
-        <item>Oh hey, what\'s up?</item>
-        <item>Focus on your tasks</item>
-        <item>How many screenshots do you take?</item>
-        <item>Open goodness with crDroid</item>
-        <item>Spread love, not havoc</item>
-        <item>We didn\'t start the fire!</item>
-        <item>Time for some good music</item>
-        <item>\u003C\u003C\u003C\u003C\u003C\u003C\u003C HEAD</item>
-        <item>You need crDroid Premium to see this</item>
-        <item>Remember the Lineage of the Unicorn</item>
-        <item>Enjoy Xtended battery life</item>
-        <item>Starting from the ground zero</item>
-        <item>We love you 3000</item>
-        <item>Delicious even without Sushi</item>
-        <item>Do something nice today</item>
-        <item>This is best Pixel Experience, isn\'t it?</item>
-        <item>No illusions, welcome to reality!</item>
-        <item>Thank you for your support</item>
-        <item>No festival for Derps - only perfection!</item>
-        <item>One of the buildbot\'s best picks</item>
-        <item>Sanity for your Paranoia</item>
-        <item>Try Ice Cold desserts</item>
-        <item>What a lovely experience, isn\'t it?</item>
-        <item>Evolution is a myth, right?</item>
-        <item>You are what you flash, don\'t be Potato</item>
-        <item>What\'s on your mind?</item>
-        <item>Expecto Patronum</item>
-        <item>Wubba Lubba Dub Dub</item>
-        <item>Winner Winner ....?</item>
-        <item>rm -rf \/</item>
+        <item>There are easter eggs hidden on this ROM.</item>
+        <item>Try checking the weather settings.</item>
+        <item>Try to avoid UV rays during noon.</item>
+        <item>Stay Hydrated!</item>
         <item>Pringles aren\'t actually potato chips..</item>
-        <item>Remember to check device\'s battery level!</item>
+        <item>Laughing can increase bloodflow.</item>
+        <item>Coffee contains antioxidants.</item>
+        <item>Ketchup was once sold as medicine.</item>
+        <item>Cotton candy was invented by a dentist.</item>
+        <item>Don\'t skip your meal!</item>
+        <item>Remember to check device\'s battery levels!</item>
         <item>Check your email/messages.</item>
         <item>Check your to-do list if you have one.</item>
         <item>You can disable quickspace via home settings.</item>
+        <item>Go get them!</item>
+        <item>Time to buy some rice!</item>
+        <item>Time for lunch!</item>
+        <item>Kalamay is made of glutinous rice.</item>
+        <item>All white rice starts brown.</item>
+        <item>Want some soda?</item>
+        <item>Always bring water to stay hydrated.</item>
+        <item>Space smells like seared steak..</item>
+        <item>Enjoy your day!</item>
     </string-array>
 
     <!-- QuickSpace: QuickEvent: Weather -->
@@ -414,4 +400,8 @@
     <!-- Task lock -->
     <string name="task_menu_item_unlock">Unlock</string>
     <string name="task_menu_item_lock">Lock</string>
+  
+    <!-- Weather -->
+    <string name="weather_settings_title">Weather settings</string>
+    <string name="weather_settings_summary">Setup icon pack and weather service</string>
 </resources>
