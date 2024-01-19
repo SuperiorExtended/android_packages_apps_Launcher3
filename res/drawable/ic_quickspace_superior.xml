@@ -1,19 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- drawable/white_balance_sunny.xml -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="24dp"
     android:height="24dp"
+    android:width="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
-
-    <path
-        android:fillColor="#ffffff"
-        android:fillType="evenOdd"
-        android:pathData="M31.6303 13.7306C26.9062 13.749 22.2448 14.8123 17.98 16.8442C6.86197 22.1411 3.16621 36.1568 10.2268 46.2472L27.5116 70.9495L37.7929 58.6967L30.4213 48.8331C23.8459 40.0349 28.8695 27.3947 39.6905 25.5106L51.9147 41.867L75.6683 13.5586L31.6303 13.7306Z" />
-    <path
-        android:fillColor="#ffffff"
-        android:fillType="evenOdd"
-        android:pathData="M56.219 83.1865L33.4836 110.114L77.4324 110.247C82.2133 110.261 86.9363 109.201 91.2523 107.145C102.328 101.868 106.01 87.9056 98.9762 77.8534L81.6403 53.0781L70.3821 66.412L78.6453 77.4686C85.2207 86.2668 80.197 98.9069 69.376 100.791L56.219 83.1865Z" />
-    <path
-        android:fillColor="#ffffff"
-        android:pathData="M80.3985 13.662L108.137 14.4622L27.8764 110.114L0.137453 109.313L80.3985 13.662Z" />
+    <path android:fillColor="#fff" android:pathData="M3.55,18.54L4.96,19.95L6.76,18.16L5.34,16.74M11,22.45C11.32,22.45 13,22.45 13,22.45V19.5H11M12,5.5A6,6 0 0,0 6,11.5A6,6 0 0,0 12,17.5A6,6 0 0,0 18,11.5C18,8.18 15.31,5.5 12,5.5M20,12.5H23V10.5H20M17.24,18.16L19.04,19.95L20.45,18.54L18.66,16.74M20.45,4.46L19.04,3.05L17.24,4.84L18.66,6.26M13,0.55H11V3.5H13M4,10.5H1V12.5H4M6.76,4.84L4.96,3.05L3.55,4.46L5.34,6.26L6.76,4.84Z" />
 </vector>
